@@ -1,0 +1,27 @@
+{
+  "name": "php-grunt",
+  "version": "0.0.1",
+  "description": "PHP implementation of Grunt",
+  "keywords": [
+    "php",
+    "grunt"
+  ],
+  "authors": [
+    {
+      "name": "Nick Kaye",
+      "homepage": "http://www.nickkaye.com"
+    }
+  ],
+  "support": {
+    "issues": "https://github.com/outrightmental/php-grunt/issues",
+    "source": "https://github.com/outrightmental/php-grunt"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/outrightmental/php-grunt.git"
+  },
+  "dependencies": {
+    "grunt": "latest",
+    "grunt-contrib-jshint": "latest"
+  }
+}
